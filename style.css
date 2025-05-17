@@ -29,7 +29,8 @@ h2 {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #eee;
+    color: #ffffff;
 }
 
 .social-links {
@@ -49,10 +50,10 @@ footer {
     color: #000;
 }
 
-.social-links> footer p{
+footer > p {
     color: #000;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 /* Project list*/
